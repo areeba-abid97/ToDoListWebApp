@@ -3,5 +3,5 @@ This Repository contains the Links to the FrontEnd and BackEnd Repositories for 
 
 ## Repository Links
 
-1. BackEnd: [ToDoWebAppBackEnd] (https://github.com/areeba-abid97/ToDoListWebAppBackEnd)
-2. FrontEnd: [ToDoWebAppFrontEnd] (https://github.com/areeba-abid97/ToDoListWebAppFrontEnd)
+1. BackEnd: https://github.com/areeba-abid97/ToDoListWebAppBackEnd
+2. FrontEnd: https://github.com/areeba-abid97/ToDoListWebAppFrontEnd
