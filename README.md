@@ -1,7 +1,16 @@
 # ToDoListWebApp
-This Repository contains the Links to the FrontEnd and BackEnd Repositories for a ToDo Web Application
 
-## Repository Links
+This is a basic ToDo Application, where the user can Add, Edit, Delete and Update a task and make their very own ToDo List.
 
-1. BackEnd: https://github.com/areeba-abid97/ToDoListWebAppBackEnd
-2. FrontEnd: https://github.com/areeba-abid97/ToDoListWebAppFrontEnd
+## Tech Stacks
+
+The following Tech Stacks are used for this ToDo Application:
+
+1. BackEnd - Java (SpringBoot)
+2. FrontEnd - Angular
+3. DataBase - MongoDB
+
+## Folder Links
+
+1. BackEnd: [BackEnd] ()
+2. FrontEnd: [FrontEnd] ()
