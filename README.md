@@ -10,7 +10,6 @@ The following Tech Stacks are used for this ToDo Application:
 2. FrontEnd - Angular
 3. DataBase - MongoDB
 
-## Folder Links
+## BackEnd Configuration
 
-1. BackEnd: [BackEnd] ()
-2. FrontEnd: [FrontEnd] ()
+To run the application run the following command in Command Prompt - ```mvn spring-boot:run```
